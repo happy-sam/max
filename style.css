@@ -1,0 +1,24 @@
+body{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;    
+}
+
+.arr{
+    display: block;
+    width: 100%;
+    text-align: center;    
+    font-size: 22px;
+}
+
+.description{
+    margin-top: 20px;
+    display: block;
+    width: 100%;
+    text-align: center;    
+    font-size: 22px;
+}
+
+.max{
+    font-weight: bold;
+}
